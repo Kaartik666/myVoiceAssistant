@@ -1,7 +1,7 @@
 # myVoiceAssistant
 This is a simple voice assistant script written in Python, utilizing the pyttsx3, speech_recognition, wikipedia, and webbrowser libraries. The assistant, named "Jack," can perform various tasks based on voice commands.
 
-                                                 FEATURES
+FEATURES -
 
 Text-to-Speech: The script uses pyttsx3 for converting text to speech, making the assistant capable of responding verbally.
 
@@ -17,7 +17,7 @@ Play Music: Jack can play a random song from a specified directory on your syste
 
 Tell Time: The assistant can provide the current time on request.
 
-                                                 HOW IT WORKS
+HOW IT WORKS -
 
 The script initializes the voice engine with the user's preferred voice settings.
 
@@ -27,7 +27,7 @@ The take_command() function listens for voice input and converts it into text us
 
 Depending on the user's command, the assistant performs tasks like searching Wikipedia, opening websites, playing music, or telling the current time.
 
-                                                 HOW TO RUN
+HOW TO RUN -
 
 Ensure that the required Python libraries (pyttsx3, speech_recognition, wikipedia, webbrowser) are installed.
 
